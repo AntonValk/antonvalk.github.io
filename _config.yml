@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Antonios Valkanas"
+  name             : &name "Antonios Valkanas"
   avatar           : "profile.png"
   bio              : "Interests lie at the intersection of AI and graphs. Master's Student, McGill University, Montreal, Canada."
   location         : "Montreal, Canada"
