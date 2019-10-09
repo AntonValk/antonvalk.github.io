@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Antonios Valkanas"
   avatar           : "profile.png"
-  bio              : "Interests lie at the intersection of AI and graphs. Master's Student, McGill University, Montreal, Canada."
+  bio              : "Interests lie at the intersection of AI and graphs. Graduate student that like to travel."
   location         : "Montreal, Canada"
   employer         :
-  pubmed           :  # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "antonios[dot]valkanas@mail[dot]mcgill[dot]ca"
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          :
   vine             :
   weibo            :
   xing             :
