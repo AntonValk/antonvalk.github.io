@@ -24,7 +24,7 @@ Languages English (Fluent), French (Advanced), Greek (Fluent)
 
 
 Master of Science - Electrical Engineering (Thesis) Sep 2019 to April 2021 (Expected)
-McGill University -GPA: 3.88
+McGill University - GPA: 3.88
 
 - Research on deep learning for graph structures, multi-label classification and application to real world data.
 - Recipient of the prestigious Alexander Graham Bell Scholarship; a highly competitive Canada-wide scholarship
