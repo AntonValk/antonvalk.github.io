@@ -16,9 +16,9 @@ redirect_from:
 
 Technical Skills: Pytorch, Python, Numpy, Pandas, Java, Git, Matlab, LaTeX
 
-Knowledge in Graph Learning, Deep Learning, Data Science, Machine Learning, Time Series
+Knowledge in:     Graph Learning, Deep Learning, Data Science, Machine Learning, Time Series
 
-Languages English (Fluent), French (Advanced), Greek (Fluent)
+Languages:        English (Fluent), French (Advanced), Greek (Fluent)
 
 ## EDUCATION
 
