@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "A Neural Network based Electromagnetic Simulator"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/A-Neural-Network-based-Electromagnetic-Simulator
+excerpt: 'Rather than attempting to solve a common EM problem using Deep Learning, which has been done before, we focus on getting an extremely fast, but also accurate estimation'
+date: 2019-07-15
+venue: '2019 22nd International Conference on the Computation of Electromagnetic Fields (COMPUMAG)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9032832'
+citation: 'A. Valkanas and D. Giannacopoulos, "A Neural Network based Electromagnetic Simulator - IEEE Conference Publication", Ieeexplore.ieee.org, 2020. [Online]. Available: https://ieeexplore.ieee.org/abstract/document/9032832. [Accessed: 13- Aug- 2020].'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[IEEE Library Link](https://ieeexplore.ieee.org/abstract/document/9032832)
