@@ -1,5 +1,5 @@
 ---
-title: "[A Neural Network based Electromagnetic Simulator](https://ieeexplore.ieee.org/abstract/document/9032832)"
+title: "A Neural Network based Electromagnetic Simulator"
 collection: publications
 permalink: /publication/A-Neural-Network-based-Electromagnetic-Simulator
 excerpt: 'Rather than attempting to solve a common EM problem using Deep Learning, which has been done before, we focus on getting an extremely fast, but also accurate estimation.'
