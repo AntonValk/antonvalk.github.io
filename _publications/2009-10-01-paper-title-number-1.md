@@ -6,7 +6,6 @@ excerpt: 'Rather than attempting to solve a common EM problem using Deep Learnin
 date: 2019-07-15
 venue: '2019 22nd International Conference on the Computation of Electromagnetic Fields (COMPUMAG)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9032832'
-citation: 'A. Valkanas and D. Giannacopoulos, "A Neural Network based Electromagnetic Simulator - IEEE Conference Publication", Ieeexplore.ieee.org, 2020. [Online]. Available: https://ieeexplore.ieee.org/abstract/document/9032832. [Accessed: 13- Aug- 2020].'
 ---
 
 [IEEE Library Link](https://ieeexplore.ieee.org/abstract/document/9032832)
