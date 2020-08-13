@@ -1,20 +1,30 @@
 ---
-title: "Teaching experience 1"
+title: "MAIS 202: Accelerated Introduction to Machine Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate level student run course"
+permalink: /teaching/2020/mais202
+venue: "McGill University, McGill AI Society"
+date: 2020-05-01
+location: "Montreal, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# MAIS 202: Accelerated Introduction to Machine Learning
 
-Heading 1
-======
+### Summary: 
+This course was designed by AI-enthusiast students at the McGill Artificial Intelligence Society.
+The aim of the course is to offer an extensive introduction to machine learning through lectures, assignments, and
+projects. 
+This course is meant for undergraduates at McGill with basic foundations in mathematics (Calculus, Linear Algebra) and programming (Python). While this course is
+intended for lower-year undergraduates with an expressed interest in machine learning,
+upper-year students who have been previously unable to take AI-related courses in McGill (e.g.
+ECSE 415, COMP 424, COMP 551, ECSE 551) are welcome to apply!
 
-Heading 2
-======
+[Course Website](https://www.mcgillai.com/mais202)
 
-Heading 3
-======
+[Course Outline & Curriculum](https://drive.google.com/file/d/1F7M4OQZAmtQozatOksX1AHabd-ZGSMu9/view)
+
+### Some Details
+
+ * Taught the course twice.
+ * The course has an honorary accreditation by the Faculty of Engineering at McGill for 0-credits. 
+This means that the course shows up on academic transcripts but cannot count towards graduation.
