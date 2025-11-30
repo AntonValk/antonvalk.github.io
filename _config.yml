@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Antonios Valkanas"
 title_separator          : "-"
 name                     : &name "Antonios Valkanas"
-description              : &description "Master's (Thesis) Student at McGill University"
+description              : &description "PhD student in Electrical & Computer Engineering at McGill (MILA / ILLS)"
 url                      : https://antonvalk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antonvalk/antonvalk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Antonios Valkanas"
   avatar           : "antonios_profile.jpg"
-  bio              : "Interests lie at the intersection of AI and graphs."
+  bio              : "PhD researcher at McGill / MILA / ILLS focusing on Bayesian and online learning for reliable LLMs."
   location         : "Montreal, Canada"
-  employer         :
+  employer         : "McGill University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YY-QwsMAAAAJ&hl=en"
   email            : "antonios.valkanas@mail.mcgill.ca"
