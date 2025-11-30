@@ -6,6 +6,7 @@ excerpt: "TMLR paper proposing incremental GNN recommenders with curated negativ
 date: 2025-03-01
 venue: "Transactions on Machine Learning Research (TMLR)"
 authors: "A. Valkanas, Y. Wang, Y. Zhang, M. Coates"
+paperurl: "https://openreview.net/forum?id=jrUUk5Fskm"
 ---
 
 - Introduces a reservoir-based strategy for selecting informative negatives as user/item distributions drift.  

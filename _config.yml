@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Antonios Valkanas"
-  avatar           : "antonios_profile.jpg"
+  avatar           : "antonios_valkanas.jpg"
   bio              : "PhD researcher at McGill / MILA / ILLS focusing on Bayesian and online learning for reliable LLMs."
   location         : "Montreal, Canada"
   employer         : "McGill University"

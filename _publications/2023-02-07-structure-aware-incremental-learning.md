@@ -6,6 +6,7 @@ excerpt: "AAAI 2023 paper proposing structure-aware continual learning strategie
 date: 2023-02-07
 venue: "AAAI 2023"
 authors: "Y. Wang, Y. Zhang, A. Valkanas, R. Tang, C. Ma, J. Hao, M. Coates"
+paperurl: "https://ojs.aaai.org/index.php/AAAI/article/download/25595/25367"
 ---
 
 - Learns user-personalized imitation weights that preserve historical preferences during incremental updates.  

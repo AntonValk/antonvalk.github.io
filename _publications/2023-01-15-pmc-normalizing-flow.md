@@ -6,6 +6,7 @@ excerpt: "IEEE Signal Processing Letters article coupling normalizing flows with
 date: 2023-01-15
 venue: "IEEE Signal Processing Letters 31, 16-20"
 authors: "S. Pal, A. Valkanas, M. Coates"
+paperurl: "https://ieeexplore.ieee.org/abstract/document/10349798"
 ---
 
 - Uses flow-based proposal distributions to adaptively focus sampling budgets on high-probability regions.  

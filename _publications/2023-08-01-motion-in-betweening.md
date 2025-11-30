@@ -6,6 +6,7 @@ excerpt: "IEEE TVCG work enabling high-quality human motion interpolation using 
 date: 2023-08-01
 venue: "IEEE Transactions on Visualization and Computer Graphics 30(8):5693-5704"
 authors: "B. N. Oreshkin, A. Valkanas, F. G. Harvey, L. S. Menard, F. Bocquelet, M. Coates"
+paperurl: "https://ieeexplore.ieee.org/abstract/document/10232882"
 ---
 
 - Reduces reliance on expensive motion-capture sessions by generating smooth, physically-plausible transitions.  
