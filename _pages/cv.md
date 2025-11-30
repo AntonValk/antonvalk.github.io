@@ -12,7 +12,7 @@ redirect_from:
 # Antonios Valkanas
 
 ## Contact Information
-- Address: 3380 Blvd Robert-Bourassa, Montreal, QC H2X 2G6
+- Lab Address: 3380 Blvd Robert-Bourassa, Montreal, QC H2X 2G6
 - Email: antonios.valkanas@mail{dot}mcgill{dot}ca
 - Website: [antonvalk.github.io](https://antonvalk.github.io)
 - GitHub: [github.com/AntonValk](https://github.com/AntonValk)
