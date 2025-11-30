@@ -6,6 +6,7 @@ excerpt: "Asilomar 2022 paper that jointly infers GNN architecture, graph struct
 date: 2022-11-01
 venue: "56th Asilomar Conference on Signals, Systems, and Computers"
 authors: "A. Valkanas, A.-W. Panzini, M. Coates"
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10052017'
 ---
 
 - Introduces priors over GNN building blocks and performs posterior inference to co-design graph structure and model parameters.  

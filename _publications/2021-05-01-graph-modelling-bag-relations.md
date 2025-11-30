@@ -6,6 +6,7 @@ excerpt: "Master's thesis detailing graph-based representations for MIL problems
 date: 2021-05-01
 venue: "McGill University (Master's Thesis)"
 authors: "A. Valkanas"
+paperurl: 'https://escholarship.mcgill.ca/downloads/zg64ts02j'
 ---
 
 - Formalizes bag-level relational priors and presents inference strategies for graph-based MIL tasks.  

@@ -6,6 +6,7 @@ excerpt: "Asilomar 2020 paper extending GNNs to operate over nodes represented b
 date: 2020-11-01
 venue: "Asilomar Conference on Signals, Systems, and Computers 2020"
 authors: "A. Valkanas, F. Regol, M. Coates"
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9443270'
 ---
 
 - Propagates Wasserstein distances through graph structures to capture higher-order uncertainty.  

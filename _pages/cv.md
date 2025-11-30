@@ -13,8 +13,7 @@ redirect_from:
 
 ## Contact Information
 - Address: 3380 Blvd Robert-Bourassa, Montreal, QC H2X 2G6
-- Phone: +1 514-726-1399
-- Email: [antonios.valkanas@mail.mcgill.ca](mailto:antonios.valkanas@mail.mcgill.ca)
+- Email: antonios.valkanas@mail{dot}mcgill{dot}ca
 - Website: [antonvalk.github.io](https://antonvalk.github.io)
 - GitHub: [github.com/AntonValk](https://github.com/AntonValk)
 - Status: PhD Student - McGill University / MILA / ILLS
@@ -24,10 +23,12 @@ redirect_from:
 **PhD - Electrical & Computer Engineering** | McGill University - MILA - ILLS, Montreal, Canada (Sept 2022 - Present)  
 Advisor: Prof. Mark Coates  
 - Research areas: Bayesian learning, online learning, probabilistic reasoning with large language models.
+- Publications in NeurIPS, ICML, AISTATS, AAAI, TMLR, IEEE Journals & Conferences.
 
 **MSc - Electrical & Computer Engineering** | McGill University, Montreal, Canada (Sept 2019 - May 2022)  
 Advisor: Prof. Mark Coates  
 - Thesis: *Graph Modelling of Bag Relations in Multiple Instance Learning*.
+- Publications in AAAI, IEEE Conferences.
 
 **BEng - Electrical Engineering (Honors)** | McGill University, Montreal, Canada (Sept 2015 - May 2019)  
 - Honors thesis advisor: Prof. Dennis Giannacopoulos.
@@ -68,29 +69,29 @@ Supervisor: Prof. Harry Leib
 - 2022: Associate Researcher Intern - Quantum Technologies  
 - 2021: Research Scientist Intern - Unity Technologies (Labs)  
 - 2020: Data Scientist Intern - CAE  
-- 2018-2025: Teaching Assistant & Course Staff - Dept. Electrical & Computer Engineering, McGill University
+- 2018-2025: Faculty Lecturer / Teaching Assistant / Course Staff - Dept. Electrical & Computer Engineering, McGill University
 
 ## Teaching Experience
 
 **ECSE 316 - Signals and Networks (McGill University)**  
 - TA & Lab Instructor across 3 semesters (~90 students each) since Fall 2020; contributed new lab material and tooling.  
-- Instructor of record for Fall 2025.
+- Faculty lecturer for Fall 2025.
 
 **ECSE 416 - Intro to Telecommunications Systems (McGill University)**  
 - TA & Lab Instructor for 3 iterations (Winter 2020-2023, ~40 students/term).  
 - Received the departmental Teaching Award (best-ranked among 500 courses in the Faculty of Engineering).
 
 **ECSE 211 - Design Principles & Methods (McGill University)**  
-- TA & Lab Instructor plus grading across 5 offerings between 2019 and 2025 (~120 students per term).
+- TA & Lab Instructor plus grading across 5 offerings between 2019 and 2022 (~120 students per term).
 
 **MAIS 202 - Intro to Machine Learning (McGill AI Society)**  
 - Course lecturer for a zero-credit seminar recognized by the Faculty of Engineering; designed and taught the curriculum for ~30 students over 2 semesters in Fall 2019.
 
-## Selected Awards, Fellowships, and Grants
+## Selected Awards, Fellowships, and Grant Funding
 
-- 2024 - PGSD (NSERC) Doctoral Award ($140,000)  
-- 2022 - Vadasz Scholar, McGill Engineering Doctoral Award (MEDA) ($128,000)  
-- 2022 - Niarchos Fellowship for Excellence in Graduate Education ($74,500)  
+- 2024 - PGSD (NSERC) Doctoral Award ($140,000 over 4 years)  
+- 2022 - Vadasz Scholar, McGill Engineering Doctoral Award (MEDA) ($128,000 over 4 years)  
+- 2022 - Niarchos Fellowship for Excellence in Graduate Education ($74,500 over 2 years)  
 - 2020 - NSERC CGSM Alexander Graham Bell Award ($17,000)  
 - 2012 - Silver Medal, Youth National Math Olympiad (Greece), awarded by the Hellenic Mathematical Society
 
@@ -124,8 +125,10 @@ Supervisor: Prof. Harry Leib
 ## Presentations
 
 **Invited Talks**  
-- Spring 2022: *Human Motion Animation with Transformers* - Bellairs ML Workshop, Barbados.  
-- Spring 2021: *Graph-based Multiple Instance Learning* - Bellairs Graph Learning Workshop, Barbados.
+- Winter 2024: *Efficient Inference using Large Language Models* - Bellairs ML Workshop, Barbados.  
+- Winter 2023: *Online Learning with Multiple Models* - Bellairs ML Workshop, Barbados.  
+- Winter 2022: *Human Motion Animation with Transformers* - Bellairs ML Workshop, Barbados.  
+- Winter 2021: *Graph-based Multiple Instance Learning* - Bellairs Graph Learning Workshop, Barbados.
 
 **Contributed Presentations**  
 - (*) *Deep Learning for Human Motion* - Staracom Annual Meeting, Montreal (2023), Best Poster Award ($1000).  
@@ -141,7 +144,7 @@ Supervisor: Prof. Harry Leib
 - 2018: Volunteer Math & Science Tutor - Toronto District School Board (500+ hours).
 
 **Peer Review**  
-- Reviewer for NeurIPS 2024, AISTATS 2025, Artificial Intelligence Review (Springer), and TMLR.
+- Reviewer for NeurIPS, ICML, ICLR, IEEE Journals, AISTATS, Artificial Intelligence Review (Springer), and TMLR.
 
 **Professional Memberships**  
 - IEEE - Student Member  
